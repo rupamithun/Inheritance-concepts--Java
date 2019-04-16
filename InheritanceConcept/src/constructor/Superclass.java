@@ -2,7 +2,7 @@ package constructor;
 
 public class Superclass {
 	int age;
-	Superclass(int age)
+	Superclass(int age)  //CONSTRUCTOR
 	{
 		this.age=age;
 	}
